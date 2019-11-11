@@ -1,4 +1,4 @@
-# UCL Machine Learning dataset - BlogFeedback
+# UCI Machine Learning dataset - BlogFeedback
 
 ## Overview
 This project performs a feature and model selection on the UCI machine learning BlogFeedback dataset. 
